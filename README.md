@@ -12,7 +12,7 @@
 
 #### 👩🏻‍💻 Studying 👩🏻‍💻
 
-<img src="https://img.shields.io/badge/JavaScript-rgb(255, 230, 234)?style=flat&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-whitesmoke?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Sass-rgb(255, 230, 234)?style=flat&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/TypeScript-whitesmoke?style=flat&logo=TypeScript&logoColor=#3178C6"/> <img src="https://img.shields.io/badge/React-rgb(255, 230, 234)?style=flat&logo=React&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/JavaScript-whitesmoke?style=flat&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-rgb(255, 230, 234)?style=flat&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/Sass-whitesmoke?style=flat&logo=Sass&logoColor=CC6699"/> <img src="https://img.shields.io/badge/TypeScript-rgb(255, 230, 234)?style=flat&logo=TypeScript&logoColor=#3178C6"/> <img src="https://img.shields.io/badge/React-whitesmoke?style=flat&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-rgb(255, 230, 234)?style=flat&logo=Redux&logoColor=#3178C6"/>
 -
 
 #### 🔧 Tools 🔧

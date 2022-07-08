@@ -1,4 +1,4 @@
-## Hi, I'm Dongjoo!
+# Hi, I'm Dongjoo!
 
 
 ### Front End Developer
